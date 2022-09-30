@@ -13,7 +13,7 @@ namespace thune
             Console.WriteLine("Hello");
             Console.WriteLine("sawaddikha");
             Console.WriteLine("haha");
-
+            Console.WriteLine("HIIII");
         }
     }
 }
