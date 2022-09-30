@@ -11,6 +11,9 @@ namespace thune
         static void Main(string[] args)
         {
             Console.WriteLine("Hello");
+            Console.WriteLine("sawaddikha");
+            Console.WriteLine("haha");
+
         }
     }
 }
